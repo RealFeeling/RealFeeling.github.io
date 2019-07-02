@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '陈焯浩的独立博客'
-description: 'AndersonChan，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '陈焯浩, 陈焯浩的独立博客, 陈焯浩的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+title: '陈焯浩的个人博客'
+description: 'AndersonChan，千禧一代，开发设计师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
+keyword: '陈焯浩, 陈焯浩的个人博客, 陈焯浩的博客, 技术博客, 后端, 前端, 移动设计, 移动开发, javascript, golang, java, 设计'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: '陈焯浩'
 nickname: 'AndersonChan'
-bio: '开发设计师，热爱技术&设计，简单乐观爱创造'
+bio: '开发设计师，热爱技术&设计，学习永无止境'
 avatar: '/assets/img/profile.png'
 
 # Search
