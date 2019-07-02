@@ -23,4 +23,5 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### Video Test
 
-<iframe type="text/html" width="100%" height="385" src="https://www.bilibili.com/video/av54846585?spm_id_from=333.334.b_62696c695f6469676974616c.11" frameborder="0"></iframe>
+<iframe type="text/html" width="100%" height="385" src="//player.bilibili.com/player.html?aid=54846585&cid=95925443&page=1" frameborder="0"></iframe>
+
