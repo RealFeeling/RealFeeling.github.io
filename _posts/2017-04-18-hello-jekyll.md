@@ -3,7 +3,6 @@ layout: post
 title: 'Hello Jekyll'
 date: 2017-04-18
 author: Jekyll
-cover: 'https://b-ssl.duitang.com/uploads/item/201907/01/20190701191347_5hFzX.jpeg'
 tags: jekyll
 ---
 
@@ -24,4 +23,3 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 ### Video Test
 
 <iframe type="text/html" width="100%" height="385" src="//player.bilibili.com/player.html?aid=54846585&cid=95925443&page=1" frameborder="0"></iframe>
-
