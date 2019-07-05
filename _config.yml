@@ -39,14 +39,8 @@ nightMode: false
 comments:
   disqus: false
   disqus_url: 'https://andersonchanlol.disqus.com/embed.js'
-
-  gitalk: true
-  gitalk_clientID: 'd69055bb756a86579fce'
-  gitalk_Secret: '01f1273fd705ba58e2783db3217afa910b5c35e7'
-  gitalk_repo: 'RealFeeling.github.io'
-  gitalk_owner: 'RealFeeling'
-  gitalk_admin: 'RealFeeling'
-  distractionFreeMode: false
+  livere: true
+  livere_uid: 'MTAyMC80NTEyNi8yMTY0Mw=='
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
