@@ -46,7 +46,7 @@ comments:
   gitalk_repo: 'RealFeeling.github.io'
   gitalk_owner: 'RealFeeling'
   gitalk_admin: 'RealFeeling'
-  distractionFreeMode: true
+  distractionFreeMode: false
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true

@@ -103,7 +103,7 @@
     {% if site.comments.disqus %}
     <section class="post-footer-item comment">
         <div id="disqus_thread"></div>
-        <div id="gitalk_container"></div>
+        <div id="gitalk-container"></div>
     </section>
     {% endif %}
   </section>
@@ -111,7 +111,7 @@
   {% include footer.html %}
 
   <script src="{{ "/assets/js/social-share.min.js" | relative_url }}"></script>
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
   <script>
     socialShare('.social-share', {
       sites: [
@@ -154,7 +154,7 @@
               repo: '{{ site.comments.gitalk_repo }}',
               owner: '{{ site.comments.gitalk_owner }}',
               admin: '{{ site.comments.gitalk_admin }}',
-              id: location.pathname,      // Ensure uniqueness and length less than 50{{ page.title }}
+              id: {{ page.title }},      // Ensure uniqueness and length less than 50{{ page.title }}
               distractionFreeMode: '{{ site.comments.distractionFreeMode }}'  // Facebook-like distraction free mode
             })
 
