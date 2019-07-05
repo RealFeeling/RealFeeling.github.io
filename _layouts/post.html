@@ -103,6 +103,7 @@
     {% if site.comments.disqus %}
     <section class="post-footer-item comment">
         <div id="disqus_thread"></div>
+        <div id="gitalk_container"></div>
     </section>
     {% endif %}
   </section>
@@ -157,7 +158,7 @@
               distractionFreeMode: '{{ site.comments.distractionFreeMode }}'  // Facebook-like distraction free mode
             })
 
-            gitalk.render('disqus_thread')
+            gitalk.render('gitalk-container')
     </script>
   {% endif %}
 
