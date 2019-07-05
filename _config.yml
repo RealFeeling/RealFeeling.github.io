@@ -37,10 +37,10 @@ nightMode: false
 
 # Comments 评论功能
 comments:
-  disqus: true
+  disqus: false
   disqus_url: 'https://andersonchanlol.disqus.com/embed.js'
 
-   gitalk: false
+   gitalk: true
    gitalk_clientID: 'd69055bb756a86579fce'
    gitalk_Secret: '01f1273fd705ba58e2783db3217afa910b5c35e7'
    gitalk_repo: 'RealFeeling.github.io'
