@@ -2,7 +2,7 @@
 layout: post
 title: Go实现泛型比较
 subtitle: '通过Comparator比较器实现泛型比较，有助于在数据结构中对元素进行排序'
-date: 2018-05-03
+date: 2018-05-15
 categories: Golang
 tags: Golang 泛型 排序
 ---
